@@ -12,9 +12,9 @@ An Android developer at 5y+ currently working with a react native framework usin
   <a href="https://instagram.com/iaco.cesar" target="blank"><img align="center"
   src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
   alt="iacocesar" height="24"/></a>
-  <a href="https://twitter.com/IacoCesar" target="blank"><img align="center"
+  <!--  DESACTIVATED  <a href="https://twitter.com/IacoCesar" target="blank"><img align="center"
   src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-  alt="iacocesar" height="24"/></a>
+  alt="iacocesar" height="24"/></a> -->
   <a href="https://www.twitch.tv/gordaoprogameplay" target="blank"><img align="center"
   src="https://img.shields.io/twitch/status/gordaoprogameplay?label=TWITCH.TV&logo=twitch&style=for-the-badge"
   alt="iacocesar" height="24"/></a>
