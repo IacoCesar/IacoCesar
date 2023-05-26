@@ -34,4 +34,4 @@ An Android developer at 5y+ currently working with a react native framework usin
 
 --- 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IacoCesar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=IacoCesar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=IacoCesar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />&nbsp;&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IacoCesar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
