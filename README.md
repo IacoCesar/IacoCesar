@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Iaco Cesar 🫡</h2>
 
-An Android developer at 5y+ currently working with a react native framework using the best practices, EC6, TypeScript, Jest for unity tests and others. I'm experienced with a lot of mobile projects like E-commerce, Banks, Maps, and Farms. Also to don't forget it and staying marked I'm a programming lover and kahvi fan.
+A React Native Developer experienced with EC6-7, Redux Toolkit, Redux Thunk, Redux Query, Styled-Components, TypeScript, Javascript, Apollo, Relay, GraphQl, Detox, Testing Library, and Jest. I'm my background I've got many projects like E-commerce, Banks, Maps, Mobility, and Farms.
 
 <p align="right">
   <!--  DESACTIVATED <a href="https://www.linkedin.com/in/iacocesar/" target="blank"><img align="center"
